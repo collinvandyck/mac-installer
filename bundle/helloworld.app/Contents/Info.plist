@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleDevelopmentRegion</key>
+  <string>English</string>
+  <key>CFBundleDisplayName</key>
+  <string>Helloworld123</string>
+  <key>CFBundleExecutable</key>
+  <string>hello.sh</string>
+  <key>CFBundleIconFile</key>
+  <string>collin.ico</string>
+  <key>CFBundleIdentifier</key>
+  <string>com.collin.helloworld</string>
+  <key>CFBundleInfoDictionaryVersion</key>
+  <string>6.0</string>
+  <key>CFBundleName</key>
+  <string>Rippling Installer</string>
+  <key>CFBundlePackageType</key>
+  <string>APPL</string>
+  <key>CFBundleShortVersionString</key>
+  <string>0.1.0</string>
+  <key>CFBundleVersion</key>
+  <string>20240516.185900</string>
+  <key>CSResourcesFileMapped</key>
+  <true/>
+  <key>LSApplicationCategoryType</key>
+  <string>public.app-category.developer-tools</string>
+  <key>LSRequiresCarbon</key>
+  <true/>
+  <key>NSHighResolutionCapable</key>
+  <true/>
+  <key>NSHumanReadableCopyright</key>
+  <string>Copyright (c) Collin 2024. All rights reserved.</string>
+</dict>
+</plist>
